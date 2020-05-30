@@ -1,6 +1,8 @@
+
+
 # Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
+O Projeto é uma loja ficticia para venda de produtos de uma universidade.
 
 ## Development server
 
